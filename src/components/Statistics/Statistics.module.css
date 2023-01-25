@@ -24,5 +24,15 @@
   margin-bottom: 10px;
 }
 
-.percentage {
+.docx {
+  background-color: rgb(47, 126, 210);
+}
+.mp3 {
+  background-color: rgb(102, 50, 150);
+}
+.psd {
+  background-color: rgb(145, 76, 172);
+}
+.pdf {
+  background-color: rgb(54, 75, 93);
 }
