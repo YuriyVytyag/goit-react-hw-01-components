@@ -1,0 +1,17 @@
+.transactionHistory {
+  width: 600px;
+  /* display: flex; */
+  flex-direction: column;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+
+  background-color: lightblue;
+}
+.item_header {
+  background-color: rgb(66, 66, 193);
+}
+
+.item {
+  border: 1px solid black;
+}
