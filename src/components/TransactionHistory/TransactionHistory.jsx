@@ -1,6 +1,5 @@
 import css from './TransactionHistory.module.css';
 const TransactionHistory = ({ items }) => {
-  console.log(items);
   return (
     <table className={css.transactionHistory}>
       <thead className={css.item_header}>
